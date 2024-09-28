@@ -6,7 +6,7 @@ import ImageGallery from './components/ImageGallery';
 function App() {
   return (
     <div className="App">
-      <h1>Photo Selector</h1>
+      <h1>PicPicker</h1>
       <ImageUpload />
       <ImageGallery />
     </div>
